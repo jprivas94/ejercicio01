@@ -1,0 +1,60 @@
+* {
+	box-sizing: border-box;
+}
+
+.margin {
+	margin: 20px;
+}
+.border {
+	border: 2px solid black;
+	display: inline;
+}
+.padding {
+	padding: 20px;
+}
+
+.colormargin {
+	background-color: peru;
+}
+
+.colorborder {
+	background-color: wheat;
+}
+
+.colorpadding {
+	background-color: yellowgreen;
+}
+
+.red {
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	margin-bottom: 100px;
+}
+
+.blue {
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	margin-top: 50px;
+}
+
+.green {
+	width: 100px;
+	height: 100px;
+	background-color: green;
+}
+
+.yellow {
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+	margin-top: -50px;
+}
+
+.radius {
+	width: 100px;
+	height: 100px;
+	background-color: turquoise;
+	border-radius: 50%;
+}
